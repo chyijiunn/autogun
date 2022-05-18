@@ -5,7 +5,7 @@
 3. 線鋸
 4. 固定作業
     1. 擊發器
-        1. 內置拆解
+        1. 內置[拆解](https://www.youtube.com/watch?v=_CkRDttE9ww&t=335s)
         2. 外置束帶固定
     3. 馬達
         1. 內置挖孔
