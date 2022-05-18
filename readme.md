@@ -1,3 +1,4 @@
+![工作流程圖](https://github.com/chyijiunn/autogun/blob/main/pics/autogun.png?raw=true)
 # 板材加工
 1. 帶鋸
 2. 鑽床
@@ -25,7 +26,7 @@
     + 褐 :GND
     + 橘 : GP16
     1. photoresistor
-    不分正負:GP27
+    + 不分正負:GP27
     確認亮暗阻值
     1. LED
     + on board:GP25
