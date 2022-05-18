@@ -22,8 +22,8 @@
     1. sg 90
     腳位拆解
     + 紅:VBUS
-    - 褐 :GND
-    s 橘 : GP16
+    + 褐 :GND
+    + 橘 : GP16
     1. photoresistor
     不分正負:GP27
     確認亮暗阻值
