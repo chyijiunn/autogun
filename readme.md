@@ -20,13 +20,13 @@
 1. main.py
 1. pin
     1. sg 90
-            腳位拆解
-            + 紅:VBUS
-            - 褐 :GND
-            s 橘 : GP16
+    腳位拆解
+    + 紅:VBUS
+    - 褐 :GND
+    s 橘 : GP16
     1. photoresistor
-            不分正負:GP27
-            確認亮暗阻值
+    不分正負:GP27
+    確認亮暗阻值
     1. LED
-            on board:GP25
-            purple/blue:GP17
+    + on board:GP25
+    + purple/blue:GP17
