@@ -1,3 +1,4 @@
+<iframe width="560" height="315" src="http://www.youtube.com/embed/9bZkp7q19f0?rel=0" frameborder="0" allowfullscreen></iframe>
 ![工作流程圖](https://github.com/chyijiunn/autogun/blob/main/pics/autogun.png?raw=true)
 # 板材加工
 1. 帶鋸
@@ -21,13 +22,13 @@
 1. main.py
 1. pin
     1. sg 90
-    腳位拆解
+    腳位[拆解](https://www.youtube.com/watch?v=_CkRDttE9ww&t=10s)
     + 紅:VBUS
     + 褐 :GND
     + 橘 : GP16
     1. photoresistor
     + 不分正負:GP27
-    確認亮暗阻值
+    確認[亮暗阻值](https://www.youtube.com/watch?v=_CkRDttE9ww&t=264s)
     1. LED
     + on board:GP25
     + purple/blue:GP17
