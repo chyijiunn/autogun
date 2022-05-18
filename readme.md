@@ -1,4 +1,4 @@
-[![完成圖]()](https://www.youtube.com/watch?v=_CkRDttE9ww&t=300s)
+[![完成圖](https://github.com/chyijiunn/autogun/blob/main/pics/完成圖.png?raw=true)](https://www.youtube.com/watch?v=_CkRDttE9ww&t=300s)
 ![工作流程圖](https://github.com/chyijiunn/autogun/blob/main/pics/autogun.png?raw=true)
 # 板材加工
 1. 帶鋸
