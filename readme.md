@@ -30,5 +30,5 @@
     + 不分正負:GP27
     確認[亮暗阻值](https://www.youtube.com/watch?v=_CkRDttE9ww&t=264s)
     1. LED
-    + on board:GP25
+    + on board:GP25 
     + purple/blue:GP17
