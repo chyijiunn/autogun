@@ -13,7 +13,7 @@ def servo(degrees):
     servoPIN.duty_u16(int(newDuty))
 
 while True:
-     if ldr.read_u16() > 800:
+     if ldr.read_u16() > 800:#修改數值，介於暗電阻～亮電阻之間
          servo(69)
          sleep(0.2)
          servo(0)
