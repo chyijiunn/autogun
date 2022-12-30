@@ -1,5 +1,6 @@
 from machine import Pin, PWM,ADC
 from time import sleep
+button = Pin(1,machine.Pin.IN, machine.Pin.PULL_UP)
 servo_pull = PWM(Pin(26))     # PWM pin for servoPull
 servo_triger = PWM(Pin(16))  # PWM pin for servoTrigger
 ldr = ADC(Pin(27))
@@ -30,10 +31,12 @@ def trigger():
     sleep(0.3)
     servo(180)
 
-for i in range(3):
+while True:
     pull()
     while True:
-     if ldr.read_u16() > 900:
-         trigger()
-         break
+        if ldr.read_u16() > 900:
+            sleep(0.5)
+            trigger()
+            break
+    if button.value() == 0:break
     
