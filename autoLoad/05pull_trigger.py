@@ -14,16 +14,16 @@ def servotri(degrees):
     servotrigger.duty_u16(int(newDuty))
 
 servoload.duty_u16(6110)
-sleep(3)
+sleep(2)
 servoload.duty_u16(5000)
 sleep(1)
-servoload.duty_u16(4700)
-sleep(5)
+servoload.duty_u16(4200)
 servoload.deinit()
-
+'''
+sleep(10)
 servotri(180)
-sleep(1)
+sleep(0.5)
 servotri(120)
 sleep(0.3)
 servotri(180)
-
+'''
